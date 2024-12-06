@@ -1,4 +1,7 @@
 # BonitaMiner
+## Extended verion
+
+## Results in BPMN
 
 ## Executing Bonita Miner
 
