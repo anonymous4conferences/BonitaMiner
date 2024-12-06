@@ -1,6 +1,8 @@
 # BonitaMiner
 ## Extended verion
 
+You can find <a href="https://github.com/NourEldin-Ali/BonitaMiner/blob/main/Bonita_Miner__extended_version_.pdf">here</a> an extended version.
+
 ## Results in BPMN
 
 You can find here the BPI Challange results `bpi_challange.zip` and aslo other evaluations that contains loops and complex patterns in `other_eval.zip`
