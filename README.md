@@ -3,9 +3,11 @@
 
 ## Results in BPMN
 
+You can find here the BPI Challange results `bpi_challange.zip` and aslo other evaluations that contains loops and complex patterns in `other_eval.zip`
+
 ## Executing Bonita Miner
 
-This guide provides instructions on how to execute Bonita Miner.
+This repository contains the `bonitaminer.jar` executable. This guide provides instructions on how to execute Bonita Miner.
 
 ### Prerequisites
 - Ensure you have Java 17 installed on your system. You can verify this by running:
