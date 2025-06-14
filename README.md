@@ -1,7 +1,7 @@
 # BonitaMiner
 ## Extended verion
 
-You can find <a href="https://github.com/NourEldin-Ali/BonitaMiner/blob/main/Bonita_Miner__extended_version_.pdf">here</a> an extended version, or on arxiv <a href="https://arxiv.org/abs/2412.06653">https://arxiv.org/abs/2412.06653</a>.
+You can find <a href="https://github.com/NourEldin-Ali/BonitaMiner/blob/main/Bonita_Miner__extended_version_.pdf">here</a> an extended version.
 
 ## Results in BPMN
 
